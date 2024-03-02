@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-$3s@zdkaaz$_3fl1&6*a7+-h4p*1cyfi@b$3k%@xch&zskm54!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "seahorse-app-8xm9n.ondigitalocean.app"]
 
 
 # Application definition
